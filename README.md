@@ -10,7 +10,7 @@ Controle de velocidade de motor DC Brushed utilizando a modulação PWM, a parti
 ### 2.HARDWARES EM USO
 
 Utilizou-se a placa STM32F407G-DISC1 (Discovery) , córtex M4, além de uma placa auxiliar para geração de PWM na entrada (entenda entrada como uma porta da Discovery), bem como um driver projetado para controle de motor Brushed, topologia Bootstrap. Para o bom funcionamento do projeto, é necessário também uma fonte de tensão 15V estável com capacidade de corrente de cerca de 2A . Observe o esquemático do Driver:
-![screenshot 2](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/Driver.pdf)
+![screenshot 2](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/Driver.PNG)
 
 
 ### 3. FUNCIONAMENO
