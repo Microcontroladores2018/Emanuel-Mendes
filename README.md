@@ -20,13 +20,15 @@ Observe que desse diagrama depreende-se que para girar o motor em um sentido, ap
 ![Figura 3](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/DiagramaTempo.PNG) 
 
 ### 4.PINAGEM
+Observe a pinagem utilizada abaixo:
 
-Em construção
+![Figura 5](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/pinos.PNG)
+
 
 ### 5.FLUXOGRAMA DO FIRMWARE
 
 Com base na programação do projeto, foi montado um fluxograma contendo as funcionalidades do código e a sequência na qual cada passo ocorre, levando em consideração todos os loops infinitos. Observe o diagrama:
-![Figura 4](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/FLUXOGRAMA.png)
+![Figura 5](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/FLUXOGRAMA.png)
 
 ### 6.VIDEO DO FUNCIONAMENTO
 [![video](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/Capture.PNG)](https://www.youtube.com/watch?v=K7pEcNUHPrc&feature=youtu.be)
