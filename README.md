@@ -29,7 +29,7 @@ Com base na programação do projeto, foi montado um fluxograma contendo as func
 ![Figura 4](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/FLUXOGRAMA.png)
 
 ### 6.VIDEO DO FUNCIONAMENTO
-[![video](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/DiagramaTempo.PNG)](https://www.youtube.com/watch?v=K7pEcNUHPrc&feature=youtu.be)
+[![video](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/Capture.PNG)](https://www.youtube.com/watch?v=K7pEcNUHPrc&feature=youtu.be)
 
 ### 7.REFERÊNCIAS
 
