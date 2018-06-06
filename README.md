@@ -27,7 +27,7 @@ Em construção
 ### 5.FLUXOGRAMA DO FIRMWARE
 
 Com base na programação do projeto, foi montado um fluxograma contendo as funcionalidades do código e a sequência na qual cada passo ocorre, levando em consideração todos o loop infinito. Observe o diagrama:
-![Figura 4](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/FLUXOGRAMA.PNG)
+![Figura 4](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/FLUXOGRAMA.png)
 
 ### 6.REFERÊNCIAS
 
