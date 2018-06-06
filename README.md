@@ -16,9 +16,8 @@ Utilizou-se a placa STM32F407G-DISC1 (Discovery) , córtex M4, além de uma plac
 ### 3. FUNCIONAMENO
 
 Será a Discovery excitada por uma fonte de PWM externa com duty-cycle variável. Para a saída, espera-se obter em um dos pinos a serem definidos no decorrer do projeto, e não simultaneamente em ambas as portas de saída, um PWM cujo duty-cycle varia de 0 a 100% - aproximadamente. Dessa forma, aciona-se o Driver MorpheusV5 - utilizada no projeto Batalha de Robôs 2017 – de acordo com o diagrama temporal abaixo: 
-![Figura 3](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/DiagramaTempo.PNG)
-
-Observe que desse diagrama depreende-se que para girar o motor em um sentido, aplicamos um sinal PWM no pino IN_1. Para girar no sentido contrário, aplica-se sinal PWM no pino IN_2. Em ambos os casos, o pino não utilizado deve encontrar-se em nível baixo. 
+Observe que desse diagrama depreende-se que para girar o motor em um sentido, aplicamos um sinal PWM no pino IN_1. Para girar no sentido contrário, aplica-se sinal PWM no pino IN_2. Em ambos os casos, o pino não utilizado deve encontrar-se em nível baixo.
+![Figura 3](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/DiagramaTempo.PNG) 
 
 ### 4.PINAGEM
 
@@ -26,10 +25,13 @@ Em construção
 
 ### 5.FLUXOGRAMA DO FIRMWARE
 
-Com base na programação do projeto, foi montado um fluxograma contendo as funcionalidades do código e a sequência na qual cada passo ocorre, levando em consideração todos o loop infinito. Observe o diagrama:
+Com base na programação do projeto, foi montado um fluxograma contendo as funcionalidades do código e a sequência na qual cada passo ocorre, levando em consideração todos os loops infinitos. Observe o diagrama:
 ![Figura 4](https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/FLUXOGRAMA.png)
 
-### 6.REFERÊNCIAS
+### 6.VIDEO DO FUNCIONAMENTO
+![video](https://youtu.be/K7pEcNUHPrc)
+
+### 7.REFERÊNCIAS
 
  [DATASHEET IR2184 - DHT11]https://github.com/Microcontroladores2018/Emanuel-Mendes/blob/master/ir2184.pdf)
 
